@@ -1,0 +1,5 @@
+name: CheatCounter
+version: 0.0.1
+api: 5.0.0
+author: AstroKotlin
+main: AstroKotlin\CheatCounter\CheatCounter
